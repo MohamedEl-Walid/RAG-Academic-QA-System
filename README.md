@@ -179,14 +179,6 @@ python main.py
 
 ---
 
-## Limitations
-
-- The knowledge base is English-focused
-- Scanned PDFs may require OCR for better extraction
-- The video generation module is experimental
-- Some guardrails are rule-based and can be improved further
-
----
 
 ## Future Improvements
 
@@ -197,19 +189,3 @@ python main.py
 - Automated testing suite
 - Docker-based deployment
 - Stronger guardrails using intent classification
-
----
-
-## Team
-
-- **Mohamed El-Walid Mohamed**
-- **Omar Ayman Abdelaziz**
-- **Omar Amgad Abdelaziz**
-- **Nayyera Badr Megahd**
-- **Mahmoud Salah Abdelmoez**
-
----
-
-## License
-
-No license has been specified yet.
