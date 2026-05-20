@@ -1,0 +1,9 @@
+langchain
+qdrant-client
+openai
+pydantic
+fastapi
+python-dotenv
+pymupdf
+sentence-transformers
+streamlit

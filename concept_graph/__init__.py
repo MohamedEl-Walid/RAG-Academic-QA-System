@@ -1,0 +1,1 @@
+from concept_graph.extractor import extract_concept_graph

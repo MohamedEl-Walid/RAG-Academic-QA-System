@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python *)",
+      "PowerShell(New-Item *)",
+      "Bash(copy *)",
+      "Bash(npx next *)"
+    ]
+  }
+}
